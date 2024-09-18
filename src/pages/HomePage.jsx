@@ -99,7 +99,7 @@ export default function HomePage() {
       </header>
 
       <main>
-        <section className="w-full text-center py-16 bg-red-700 text-white">
+        <section className="w-full text-center py-16 bg-green-700 text-white">
           <div className="max-w-6xl mx-auto px-5">
             <h1 className="text-5xl mb-5">Make a Difference Today</h1>
             <p className="text-xl mb-8">Connect with charities and causes you care about. Your donation can change lives.</p>
